@@ -96,18 +96,8 @@
 ## 📈 فعالیت گیت‌هاب
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kianmowlani&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kianmowlani&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
-
-### Infrastructure & Tools
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Network%2B-007ACC?style=for-the-badge" />
-</p>
-
 
 ---
 ##🤝 ارتباط با من
