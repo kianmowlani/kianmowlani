@@ -102,12 +102,7 @@
 ## 📈 فعالیت گیت‌هاب
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kianmowlani&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-
-<p aligh="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kianmowlani&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kianmowlani&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
