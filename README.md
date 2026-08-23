@@ -1,25 +1,28 @@
-# Hi there! I'm [Your Name] 👋
+# سلام، من [نام شما] هستم 👋
 
-### Full-Stack Developer | Web & Mobile Engineer
+### Full-Stack Developer | Web & Mobile Developer
 
-I am a passionate Full-Stack Developer with a deep interest in building modern, scalable, and user-friendly web and mobile applications. I enjoy tackling complex challenges and turning ideas into high-quality code.
-
----
-
-## 🚀 About Me
-
-- 💻 Experienced in building Full-Stack web applications.
-- 📱 Developing cross-platform mobile apps with React Native.
-- ⚙️ Skilled in Backend development and API architecture.
-- 🐧 Enthusiastic about Linux, Networking, and Infrastructure.
-- 🔧 Version control enthusiast (Git).
-- 📚 Always learning and keeping up with the latest tech trends.
+من یک برنامه‌نویس و توسعه‌دهنده فول‌استک هستم و به طراحی و توسعه‌ی وب‌سایت‌ها، اپلیکیشن‌های تحت وب و برنامه‌های موبایل علاقه دارم.  
+تمرکز من بر ساخت پروژه‌های مدرن، سریع، مقیاس‌پذیر و کاربرپسند با استفاده از فناوری‌های روز است.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 درباره من
+
+- 💻 توسعه‌دهنده فول‌استک وب
+- 🌐 علاقه‌مند به طراحی رابط کاربری مدرن و واکنش‌گرا
+- ⚙️ تجربه در توسعه Backend و API
+- 📱 علاقه‌مند به توسعه اپلیکیشن‌های موبایل با React Native
+- 🐧 علاقه‌مند به Linux، شبکه و زیرساخت
+- 🔧 مسلط به Git و مدیریت پروژه‌های نرم‌افزاری
+- 📚 همیشه در حال یادگیری و بهبود مهارت‌های فنی
+
+---
+
+## 🛠️ مهارت‌ها و فناوری‌ها
 
 ### Frontend
+
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -32,24 +35,33 @@ I am a passionate Full-Stack Developer with a deep interest in building modern, 
 </p>
 
 ### Backend
+
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MVC-Architecture-6C757D?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+</p>
+
+### Database
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+### Mobile & Other Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" />
+  <img src="https://img.shields.io/badge/C- A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
-### Database & Others
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" />
-</p>
+### Tools, Systems & Networking
 
-### Infrastructure & Tools
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -58,18 +70,44 @@ I am a passionate Full-Stack Developer with a deep interest in building modern, 
 
 ---
 
-## 📊 GitHub Stats
+## 📌 حوزه‌های فعالیت
+
+- طراحی و توسعه وب‌سایت‌های واکنش‌گرا
+- توسعه اپلیکیشن‌های فول‌استک
+- طراحی و پیاده‌سازی REST API
+- توسعه پروژه‌های Laravel و React
+- ساخت Progressive Web App یا PWA
+- طراحی داشبوردها و پنل‌های مدیریتی
+- طراحی و مدیریت پایگاه داده
+- توسعه اپلیکیشن موبایل با React Native
+- بهینه‌سازی عملکرد و تجربه کاربری
+
+---
+
+## 📊 آمار گیت‌هاب
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## 📈 فعالیت گیت‌هاب
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+##🤝 ارتباط با من
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/USERNAME">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:YOUR_EMAIL@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -78,6 +116,11 @@ I am a passionate Full-Stack Developer with a deep interest in building modern, 
 
 ---
 
-> "Code is like humor. When you have to explain it, it’s bad."
+## 💬 نقل‌قول مورد علاقه
 
-⭐ Thanks for visiting my profile! Feel free to follow or star my repositories.
+> کد خوب فقط کاری نمی‌کند که برنامه اجرا شود؛  
+> بلکه باعث می‌شود توسعه‌دهندگان بعدی نیز بتوانند آن را به‌راحتی درک و توسعه دهند.
+
+---
+
+⭐ اگر پروژه‌های من برایتان مفید بود، خوشحال می‌شوم آن‌ها را Star کنید.
