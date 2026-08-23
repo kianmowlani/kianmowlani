@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/MVC-Architecture-6C757D?style=for-the-badge" />
 </p>
 
-### Database | دریتابیس
+### Database | دیتابیس
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
