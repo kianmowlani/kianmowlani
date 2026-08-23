@@ -1,6 +1,6 @@
 # سلام، من کیان مولانی هستم 👋
 
-### Full-Stack Developer | Web & Mobile Developer | برنامه نویس و توسعه دهنده وب | فول استک
+### Full-Stack Developer | Web Developer | برنامه نویس و توسعه دهنده وب | فول استک
 
 من یک برنامه‌نویس و توسعه‌دهنده فول‌استک هستم که در شهرستان پیرانشهر در استان آذربایجان غربی به دنیا امدم و به طراحی و توسعه‌ی وب‌سایت‌ها، اپلیکیشن‌های تحت وب و امینت سایبری علاقه دارم.  
 تمرکز من بر ساخت پروژه‌های مدرن، سریع، مقیاس‌پذیر و کاربرپسند با استفاده از فناوری‌های روز است.
@@ -49,15 +49,20 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-### Mobile & Other Technologies
+### Mobile | موبایل
 
 <p>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" />
+</p>
+
+
+### Other programming languages | سایر زبان های برنامه نویسی
+
+<p>
   <img src="https://img.shields.io/badge/C- A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
 </p>
 
 ### Tools, Systems & Networking
