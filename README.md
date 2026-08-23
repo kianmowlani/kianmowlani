@@ -113,7 +113,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
     <a href="https://t.me/Kian_mowlani">
-    <img src="https://img.shields.io/badge/Telegram-0A66C2?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-229bd7?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
