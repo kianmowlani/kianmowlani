@@ -1,6 +1,6 @@
 # سلام، من کیان مولانی هستم 👋
 
-### Full-Stack Developer | Web & Mobile Developer
+### Full-Stack Developer | Web & Mobile Developer | برنامه نویس و توسعه دهنده وب | فول استک
 
 من یک برنامه‌نویس و توسعه‌دهنده فول‌استک هستم که در شهرستان پیرانشهر در استان آذربایجان غربی به دنیا امدم و به طراحی و توسعه‌ی وب‌سایت‌ها، اپلیکیشن‌های تحت وب و امینت سایبری علاقه دارم.  
 تمرکز من بر ساخت پروژه‌های مدرن، سریع، مقیاس‌پذیر و کاربرپسند با استفاده از فناوری‌های روز است.
@@ -13,7 +13,6 @@
 - 🌐 علاقه‌مند به طراحی رابط کاربری مدرن و واکنش‌گرا
 - ⚙️ تجربه در توسعه Backend و API
 - 📱 علاقه‌مند به توسعه اپلیکیشن‌های موبایل با React Native
-- 🐧 علاقه‌مند به Linux، شبکه و زیرساخت و امینت سایبری
 - 🔧 مسلط به Git و مدیریت پروژه‌های گروهی
 - 📚 همیشه در حال یادگیری و بهبود مهارت‌های فنی
 
@@ -21,7 +20,7 @@
 
 ## 🛠 مهارت‌ها و فناوری‌ها
 
-### Frontend
+### Frontend | فرانت اند
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -34,7 +33,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 </p>
 
-### Backend
+### Backend | بک اند
 
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -43,7 +42,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### Database
+### Database | دریتابیس
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
